@@ -10,4 +10,4 @@ You win coins by winning a fight. You can use these coins to improve odds on win
 
 ## Request to improve
 I'm giving away 1ETH for the best game dynamics contract update. 
-If you are new to solidity and want to still contribute check out this [tutorial](https://questb.uk/quest/learning-solidity-by-extending-loot!-d699)
+If you are learning solidity or want to understand how this contract works to still contribute, check out this [tutorial](https://questb.uk/quest/learning-solidity-by-extending-loot!-d699)
